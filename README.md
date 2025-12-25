@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=ABHINAV%20DUBEY&fontSize=80&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Architect&descAlignY=60&fontColor=36BCF7)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Hi%2C%20I%27m%20Abhinav%20Dubey%20👋&fontSize=50&animation=scaleIn&fontAlignY=35&desc=Passionate%20Engineer%20|%20Problem%20Solver%20|%20System%20Architect&descSize=20&descAlignY=55&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Solutions;Open+Source+Enthusiast;Mastering+Algorithms)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Solutions;Open+Source+Enthusiast;Mastering+Algorithms)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ABHINAV-991&label=SYSTEM+ACCESSES&color=36BCF7&style=for-the-badge" alt="Views" />
@@ -14,16 +14,13 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Engineering Log: abhinav.exe
+<img align="right" alt="Coding" width="280" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Ftbzl1dnN1YXZjNDU5M2JvbmhjeXVncGZjcGNpdG9tY2xjNXVzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
-> *"Engineering solutions that solve real-world problems at scale."* <img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Ftbzl1dnN1YXZjNDU5M2JvbmhjeXVncGZjcGNpdG9tY2xjNXVzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
-
-- 👋 Hi, I’m **Abhinav Dubey** @ABHINAV-991
-- 🎓 2nd Year CSE Student at **VIT Bhopal**
-- 🌱 Currently deep-diving into **Distributed Systems & System Design**
-- 💡 Passionate about building robust, high-performance backends
-- 📫 reach me: **abhinavdubeyofficial9@gmail.com**
-- ⚡ Fun fact: I treat every bug as a chance to learn a new system detail ☕
+- **User:** 2nd Year CSE @ VIT Bhopal
+- **Mission:** Engineering robust, best-in-class products that scale gracefully
+- **Current_Thread:** Deep diving into Distributed Systems & Advanced Graph Theory
+- **Status:** Passionately refining algorithmic skills every single day ⚡
 
 <br clear="right"/>
 
@@ -36,7 +33,7 @@
 
 ---
 
-## 🛰️ Global Practice War-Room (Live Stats)
+## 🛰️ Global Practice War-Room
 <div align="center">
   <table border="0">
     <tr>
@@ -59,32 +56,17 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHINAV-991&radius=16&theme=react-dark&area=true" width="100%" />
 </div>
 
-## 🏆 System Achievements
+## 🏆 Achievements & Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ABHINAV-991&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 
 ---
 
-<p align="center">
-<img alt ="Mandy Bunny" width="800" src="https://github.com/N-PCs/Source/blob/main/%E1%B4%8D%E1%B4%80%C9%B4%E1%B4%85%CA%8F%20%CA%99%E1%B4%9C%C9%B4%C9%B4%CA%8F.gif">
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ABHINAV-991/ABHINAV-991/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ABHINAV-991/ABHINAV-991/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ABHINAV-991/ABHINAV-991/output/github-snake.svg" />
-</picture>
-
-<br>
-
-<div align="center">
-
-## 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-dubey-252145368) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavdubeyofficial9@gmail.com)
-
-<br/>
-
-![footer](https://capsule-render.vercel.app/api?type=rect&color=36BCF7&height=20&section=footer)
-
-</div>
+## 💡 Technical Identity (JSON)
+```javascript
+const abhinav = {
+    vision: "To engineer best-in-class scalable solutions",
+    passion: ["Distributed Systems", "Algorithm Optimization", "Clean Architecture"],
+    motto: "Building for quality, scaling for impact."
+};
