@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Hi%2C%20I%27m%20Abhinav%20Dubey%20👋&fontSize=50&animation=scaleIn&fontAlignY=35&desc=Passionate%20Engineer%20|%20Problem%20Solver%20|%20System%20Architect&descSize=20&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=230&section=header&text=Abhinav%20Dubey&fontSize=80&animation=twinkling&fontAlignY=40&desc=Engineering%20Scalable%20Solutions%20|%20Problem%20Solver%20|%20System%20Architect&descAlignY=60&descAlign=50&fontColor=36BCF7)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Solutions;Open+Source+Enthusiast;Mastering+Algorithms)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Architecting+the+Future;Building+Robust+Systems;Mastering+Complex+Algorithms;Innovating+with+Purpose)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ABHINAV-991&label=SYSTEM+ACCESSES&color=36BCF7&style=for-the-badge" alt="Views" />
@@ -15,29 +15,31 @@
 ---
 
 ## 👨‍💻 Engineering Log: abhinav.exe
-<img align="right" alt="Coding" width="280" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Ftbzl1dnN1YXZjNDU5M2JvbmhjeXVncGZjcGNpdG9tY2xjNXVzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+<img align="right" alt="Coding GIF" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXp4Ynl6amZ6amZ6amZ6amZ6amZ6amZ6amZ6amZ6amZ6amZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - **User:** 2nd Year CSE @ VIT Bhopal
-- **Mission:** Engineering robust, best-in-class products that scale gracefully
-- **Current_Thread:** Deep diving into Distributed Systems & Advanced Graph Theory
-- **Status:** Passionately refining algorithmic skills every single day ⚡
+- **Philosophy:** Building software that doesn't just work, but scales gracefully
+- **Current_Sprint:** Deep diving into Distributed Systems & Advanced Graph Theory
+- **Uptime:** Consistently refining algorithmic logic every single day ⚡
 
 <br clear="right"/>
 
-## 🛠️ Tech Arsenal
-<p align="left">
+## 🛠️ The Tech Arsenal
+<div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,python,react,nodejs,express,mysql,mongodb,aws,docker,git,linux,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,python,react,nodejs,express,mysql,mongodb,aws,docker,git,linux" />
   </a>
-</p>
+</div>
 
 ---
 
 ## 🛰️ Global Practice War-Room
+*Proving daily discipline through real-time practice metrics.*
+
 <div align="center">
   <table border="0">
     <tr>
-      <td><img src="https://leetcard.jacoblin.cool/ABHINAV-991?theme=dark&font=Abel&ext=heatmap" width="410px" /></td>
+      <td><img src="https://leetcard.jacoblin.cool/ABHINAV-991?theme=dark&font=Inter&ext=heatmap" width="410px" /></td>
       <td><a href="https://www.geeksforgeeks.org/profile/abhinavdube0d7x"><img src="https://gfg-stats-pranay-shubham.vercel.app/?username=abhinavdube0d7x&theme=dark" width="410px" /></a></td>
     </tr>
   </table>
@@ -45,28 +47,31 @@
 
 ---
 
-## 📊 Engineering Analytics
+## 📊 Live Performance Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABHINAV-991&theme=radical&hide_border=true&show_icons=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHINAV-991&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ABHINAV-991&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHINAV-991&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FFD700" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHINAV-991&radius=16&theme=react-dark&area=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAV-991&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHINAV-991&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff" width="49%" />
 </div>
 
-## 🏆 Achievements & Trophies
+## 🏆 System Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ABHINAV-991&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ABHINAV-991&theme=tokyonight&no-frame=true&margin-w=15&no-bg=true" />
 </div>
 
 ---
 
-## 💡 Technical Identity (JSON)
+## 💡 Developer Identity
+
 ```javascript
 const abhinav = {
-    vision: "To engineer best-in-class scalable solutions",
+    vision: "To engineer the best-in-class scalable solutions",
     passion: ["Distributed Systems", "Algorithm Optimization", "Clean Architecture"],
+    current_focus: "Architecting software that impacts millions",
     motto: "Building for quality, scaling for impact."
 };
