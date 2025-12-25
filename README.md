@@ -19,10 +19,24 @@
 
 - **User:** 2nd Year CSE @ VIT Bhopal
 - **Target:** 40 LPA+ Marquee Offer
-- **Focus:** System Design & High-Concurrency Backend
+- **Current_Thread:** System Design & High-Concurrency Backend
 - **Status:** Daily DSA Immersion Active ⚡
 
 <br clear="right"/>
+
+---
+
+## 🛰️ Global Practice War-Room
+<div align="center">
+  <table border="0">
+    <tr>
+      <td><img src="https://leetcard.jacoblin.cool/ABHINAV-991?theme=dark&font=Inter&ext=heatmap" width="410px" /></td>
+      <td><a href="https://www.geeksforgeeks.org/profile/abhinavdube0d7x"><img src="https://gfg-stats-pranay-shubham.vercel.app/?username=abhinavdube0d7x&theme=dark" width="410px" /></a></td>
+    </tr>
+  </table>
+</div>
+
+---
 
 ## 📊 Engineering Analytics
 
@@ -34,18 +48,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAV-991&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff" width="49%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHINAV-991&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff" width="49%" />
-</div>
-
-<br/>
-
-## 🧩 Algorithmic DNA (Live Stats)
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/ABHINAV-991?theme=dark&font=Inter&ext=heatmap" />
-  <br/><br/>
-  <a href="https://www.geeksforgeeks.org/profile/abhinavdube0d7x">
-    <img src="https://gfg-stats-pranay-shubham.vercel.app/?username=abhinavdube0d7x&theme=dark" alt="GFG Stats" />
-  </a>
 </div>
 
 ## 🏆 System Achievements
