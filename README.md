@@ -10,11 +10,11 @@ Hi there, I'm Abhinav 👋<br><br>I am a 2nd-year CS student dedicated to master
 
 # 📊 Coding Practice Stats:
 
-### 🧩 LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=lh057l0LPa&theme=gruvbox&hide_border=false)
+### 🧩 LeetCode Stats 
+<img src="https://leetcode-stats-six.vercel.app/?username=YOUR_NEW_USERNAME&theme=gruvbox&hide_border=false" alt="LeetCode Stats" />
 
-### 🎓 GeeksforGeeks Stats
-![GFG Stats](https://gfg-stats-pranay-shubham.vercel.app/?username=abhinavdubey&theme=gruvbox)
+### 🎓 GeeksforGeeks Profile
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/abhinavdubey)
 
 
 # 📊 GitHub Stats:
