@@ -31,6 +31,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHINAV-991&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FFD700" width="49%" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAV-991&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHINAV-991&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff" width="49%" />
+</div>
+
+<br/>
+
 ## 🧩 Algorithmic DNA (Live Stats)
 
 <div align="center">
@@ -53,6 +60,8 @@
 ## 🤝 Establish Connection
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-dubey-252145368) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavdubeyofficial9@gmail.com)
+
+<br/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=rect&color=36BCF7&height=20&section=footer)
 
