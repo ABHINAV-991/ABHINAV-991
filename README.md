@@ -1,4 +1,9 @@
-# 💫 About Me:
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ABHINAV-991&icon=4&color=13" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ABHINAV-991?label=Followers&style=for-the-badge&color=58a6ff" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ABHINAV-991?label=Stars&style=for-the-badge&color=f2cd60" alt="Stars" />
+</p>
+# ✒️ About Me:
 Hi there, I'm Abhinav 👋<br><br>I am a 2nd-year CS student dedicated to mastering the art of efficient problem-solving. <br>My technical focus lies at the intersection of Full-Stack Development and Distributed Systems. <br>I am currently challenging myself with advanced competitive programming to stay at the cutting edge of software engineering.<br><br>🎓 Currently: Pursuing B.Tech in Computer Science & Engineering.<br><br>💻 Tech Stack: Java, C++, Python, React, Node.js, and SQL.<br><br>🎯 Focus: Mastering Data Structures, Algorithms, and System Design.<br><br>🏆 Goal: Cracking a Marquee placement and building products that scale to millions.<br><br>🛠️ What I'm working on<br>🌱 Deep diving into Dynamic Programming and Advanced Graph Algorithms.<br><br>🔭 Developing a fullstack web app.<br><br>💬 Ask me about: Backend development, SQL optimization, or my journey into tech.
 
 
