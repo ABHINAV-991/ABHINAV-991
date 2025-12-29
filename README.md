@@ -79,7 +79,7 @@ I am a 2nd-year CS student at **VIT Bhopal** focusing on **high-concurrency back
 const dev = {
     name: 'Abhinav Dubey',
     status: 'Mastering Full Stack & Distributed Systems',
-    ambition: 'Cracking 40 LPA+ Marquee Placements',
+    ambition: 'Developing a efficient solution',
     current_stack: ['Java', 'Spring', 'React', 'Cloud Architectures'],
     motto: 'Build things that matter.'
 };
